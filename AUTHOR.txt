@@ -1,0 +1,2 @@
+# File that list contributor to the simple shell project.
+Tevin Lemalasia <tevinlemalasia254@gmail.com>
